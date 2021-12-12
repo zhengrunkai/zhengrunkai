@@ -4,8 +4,6 @@
 **zhengrunkai/zhengrunkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-Hello，我叫郑润楷，就读于惠州学院，现在大四即将找工作了！
-喜欢编程，渴望能从事 Java 开发工作。
 
 
 - 🔭 I’m currently working on ...
@@ -25,8 +23,8 @@ Hello，我叫郑润楷，就读于惠州学院，现在大四即将找工作了
 - ⚡ Fun fact: ...
   -->
 
-Hello，我叫郑润楷，就读于惠州学院软件工程专业，现在大四即将找工作了！  
-专业语言方向：**Java**，喜欢编程，渴望从事 Java 开发工作。
+目前从事Java方向工作，喜欢记录一些东西并乐意和别人分享交流。
+希望自己能成为一名Java大佬吧！
 
 
   🌱 爱好：打篮球，看侦探类型小说。
